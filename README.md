@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey Guys 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name's Quang England and I'm a Front End from VietNam</p>
+<p align="left">My name's Quang England and I'm a Front-End Developer from VietNam</p>
 
 ###
 
